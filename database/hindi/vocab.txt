@@ -1,0 +1,4 @@
+hindi, english
+वीरान, deserted
+गिरजाघर, church
+दरख्त, tree
