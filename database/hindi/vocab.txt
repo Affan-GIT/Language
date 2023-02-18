@@ -1,4 +1,631 @@
-hindi, english
-वीरान, deserted
+word, meaning, sentence
+वीरान, deserted, देवी का स्मारक वीरान खेतों में है।
 गिरजाघर, church
-दरख्त, tree
+दरख्त, tree, और आदम से कहा ऐ आदम तुम और तुम्हारी बीबी दोनों बेहश्त में रहा सहा करो और जहाँ से चाहो खाओ पियो मगर ख़बरदार उस दरख्त के करीब न जाना वरना तुम अपना आप नुक़सान करोगे
+सौहार्द, formal and polite, यह सौर एक धार्मक सौहार्द का रूप हौ।
+मन्नत, A vow in exchange of a desire, बेगम ने अपनी मन्नत पूरी की।
+सिलसिला, Sequence, यह सिलसिला अभी तक जारी हौ।
+वध, kill, श्री कृष्ण ने योगमाया का वध कर दिया था
+शीश, glass, 
+पिंडी, rocks as manifestation of a goddess, वह महाकाल की पिंडी है
+मंडी, market, फूलवाली मंडी महल के पास लगती है। 
+झील, lake,  झील का पानी यहाँ तक आता है।
+भेंट, offering, भगवान् के लिए आपने क्या भेंट लाये हो?
+प्रस्तुति, presentation, लोक नृत्य प्रस्तुति लाजवाब थी।
+गरुड़, Eagle-like, भारत के वायुसेना का गरुड़ कॉमंडी आया है। 
+झिड़की लगाई, scolded angrily, मां को परेशान कर रहा था तो उन्होंने मुझपे झिड़की लगाई।
+उभर, emerge, उसका चित्र मेरे दिमाग में उभर रहा था।
+संपर्क, contact, बाहर जाने पर हमसे संपर्क में रहोगे न?
+साहस, courage, मेरे बुरे गुण बताने के बाद उसने मुझे बहुत साहस दी।
+उबर, recover, मुझे नहीं पता इस बीमारी से में कब उबर पाऊंगा।
+सलाह, advice, में आपको कुछ सलाह दू क्या?
+सहायता, help, में आपकी सहायता कर सकता हु।
+शुभकामनाएं, best wishes, आपके जन्मदिन की खूब शुभकामनाएं।
+तहे दिल से, whole heartedly, मैं आपको तहे दिल से चाहता हु।
+भाग्यशाली, lucky, मैं बहुत भाग्यशाली हूँ।
+लक्षण, symptoms, इस बीमारी के लक्षण थोड़े दिन में दिखाई देंगे।
+कष्टदायक, painful, यह तन्हाई काफी कष्टदायक है। 
+अनुसंधान, research, आपके स्कूल का अनुसंधान कैसा चल रहा है। 
+योजनाबद्ध, schematic, यह संघ ने बहु ही योजनाबद्ध तरीके से काम किया।
+खुराख, dosage, दिए गए खुराक को ग्रहण करें।
+परीक्षण, test, आपके चिकित्सा परीक्षण का क्या नतीजा था?
+अनुमति, permission, आपको बात करने की अनुमति है।
+तनाव, stress, मुझ पर परीक्षा का काफी तनाव है।
+बुनियादी, basic, यहाँ संकल्पना को बुनियादी दृष्टिकोण से समझाता हु।
+संकल्पना, Conceptualize, राष्‍ट्रीय डिजाइन संस्‍थान ने इस प्रदर्शनी के डिजाइन की संकल्पना की है।
+कठोर, harsh, अपने आप पर इतने कठोर क्यों हो आप ?
+असंतुष्ट, dissatisfied, अपने ज़िन्दगी से मैं काफी असंतुष्ट हु।
+अनावश्यक, unnecessary, इतना श्रम अनावश्यक है।
+कसरत, exercise, हर रोज़ कसरत करना अच्छा है। 
+आंकना, assess, आपके जवाब अभी आंके जा रहे है।
+गंभीर, serious, अपनी पढ़ाई को लेकर गंभीर हो जाओ। 
+प्रियजन, loved one, अपने प्रियजनों से बात करते हो क्या?
+रोगी, patient, मेरे पापा रोगी की देखभाल करते है। 
+संवेदना, sympathy, मुझमे हर एक छात्र के प्रति संवेदना है।
+क्रोध, anger, उनके ओर आप इतना क्रोध क्यों रखते हो?
+लेशमात्र, trace, अपने अपराध का लेशमात्र भी नहीं रहने दिया।
+कुंजी, key, उसके दिल की कुंजी हु मैं।
+पड़ाव, milestone, अगला पड़ाव रेक्टर स्ट्रीट
+सिरे, start/ends , फिर मेरी मदद करो मेरे साथ हम नए सिरे से शुरू हमारी जाति को बचाने
+दिलकश, Pleasing, काफ़ी दिलकश नाम है
+अतीत, Past, बिहार का अतीत गौरवशाली रहा है
+निकटम, Near, निकटम पड़ौसी और मित्र के नाते यह हमारा कर्तव्य था।
+गोलार्ध, Hemisphere, उत्तरी गोलार्ध
+राजनीति, Politics, ये अब साबित हो चुका है कि सेना को राजनीति से अलग किये बगैर पाकिस्तान कभी भी जनतंत्र बनने की राह पर बढ़ नहीं सकता
+जनतंत्र, Democracy, विश्व के सबसे बड़े और फलते फूलते जनतंत्र के चुनाव
+अभिप्राय, notion, प्रधानमंत्री ने कहा कि भारत से अभिप्राय शांति, एकता और सद्भाव है।
+तत्व-वस्तुएं, Elements, प्रकृति के अन्य तत्व-वस्तुएं
+निर्विकार, Changeless, इस विवरण से स्पष्ट हो जाता है कि आत्मा तो निर्विकार है किंतु मन इंद्रिय और शरीर में विकृति हो सकती है
+उद्देश्य, Purpose, इस परियोजना के व्यापक उद्देश्यों का उल्लेख नीचे किया गया हैः
+उल्लेख, Citation, सभी लोग जिन्होंने सहयोग किया और मैं उल्लेख करना भूल गया
+स्वतंत्रता, Freedom, स्वतंत्रता का तात्त्विक अर्थ यह है कि विवेकशील लोगों को जो कुछ सर्वात्तम प्रतीत हो, वही कुछ करने में वह समर्थ हो और उसके कार्यकलाप बाहर के किसी प्रतिबंध से न बँधे हों
+दशा, Status, घर की दशा बहुत खराब थी।
+समर्थ, Able, कोई इसे खरीदने में समर्थ नहीं है
+साधारणतः, In a nutshell, अल्पावधि से लेकर साधारणतः 5 वर्ष तक का समय।
+विवेकशील, Rational, इसलिए यदि आप इस बात से सहमत हों कि कोई भी विवेकशील व्यक्ति युद्ध की घोषणा का समर्थन नहीं कर सकता, तो इसका विकल्प क्या है?
+व्याख्या, Illustration, क्या तुम में से कोई इस पागलपन की व्याख्या मुझे कर सकता हैं
+कार्यकलाप, Action, ऐसा स्थल जहां कंप्यूटर से संबधित कार्यकलाप संचालित होते हो।
+औपचारिक, Formal, औपचारिक रूप से नई दिल्ली भारत की राजधानी है ।
+अभाव, Shortage, पूर्वोत्तर क्षेत्र के विकास की राह में कनेक्टिविटी का अभाव सबसे बड़ी बाधा है।
+सदैव, Always, सभी द्रव्य सदैव अपने प्राकृतिक रूपों में शरीर में उपयोगी नहीं होते 
+साध्य, Doable, हम उसे सहज ढंग से उस चीज़ का पात्र बना देंगे जो कठिन चीज़ कष्ट साध्य है
+यथार्थ, Reality, उनके सरलीकरण का प्रयास एक बिंदु के आगे जाने पर सामाजिक यथार्थ को विकृत कर सकता है।
+विवश, Bound, हम उन्हें लौटने पर विवश कर देंगे
+ध्येय, Aim, इस मोहिनी के वश होकर हम लोग हिन्दुसतान को अपने ध्येय की ओ आगे बढने से रोक रहें हैं।
+उन्नयन, Upliftment, राज्य सरकार के वर्तमान मेडिकल कॉलेजों का उन्नयन
+वितरण, Distribution, प्रमाणपत्रों के एचटीटीपी सीआरएल वितरण बिन्दु अनदेखा करें
+वंचित, Deprived, मैं गोरिंग को शक्ति से वंचित करना और पद से हटाना चाहता हूं
+अपरिहार्य, Unavoidable, लेकिन युद्ध अपरिहार्य लगता है मैं
+बंधुता, Fraternity, यह मनुष्य के सार्वभौमिक बंधुता की धारणा का आधार है।
+बहुसंन्स्क्रुत्, Multicultural, भारत एक बहुसंन्स्क्रुत् देश है
+तपस्या, Devotion, आखिरकार दस साल की तपस्या का फल मिलने वाला है
+भांति, like, भारत के साहित्य आकाश में महादेवी वर्मा का नाम ध्रुव तारे की भांति प्रकाशमान है।
+कदाचित, occasional, क्रोध कभी भी बिना कारण नहीं होता, लेकिन कदाचित ही यह कारण सार्थक होता है।
+चित्रण, depiction, कहीं उनकी कहानी की विशेषता उस वातावरण में है जिसका वे सफलता पूर्वक चित्रण करते हैं।
+प्रतिभा, talent
+अभूतपूर्व, unprecedented
+परिचय, introduction
+संग्रह, collection
+सम्पादित, edited
+अनुदित, translated
+साक्षर, literate
+निरक्षर, illiterate
+दृष्टि-पथ	, path of vision
+अपेक्षा, expectation
+दिन-दुखियो, poor
+पक्षधर, advocate
+कृषक, farmer
+अन्याय, injustice
+विरोधी, opponent
+शोषण, exploitation
+सुविधाजनक, convenient
+दूरभाष, telephone
+दूरदर्शन, television
+संगणक, computer
+विज्ञापन, advertisement
+अनुक्रम, Sequence
+जायदाद, Property
+हिंसक, Violent
+जोंक, leech
+स्वभावतः, naturally, स्वभावतः
+अनुकूल, friendly
+दलील, plea
+भ्रमित, confused
+नैतिक, moral
+मानुषीय, human
+औचित्य, justification
+बेदर्दी, cruelty
+उद्दंडता , arrogance
+प्रचुर, abundant
+बर्दाश्त, tolerate
+विशेषकर, especially
+सौहार्द्र, cordiality
+नम्रता, humility
+कठोरता, stiffness
+लोक-प्रेम, philanthropy
+सिद्धांत, theory
+दशा, situation
+विलासी, luxurious
+ऐश्वर्य, grandeur
+निश्चय (v), decision
+हैसियत, status
+न्योता, invitation
+आग्रह, insistance
+जहीन, astute
+निंदा, condemnation
+शासन, rule
+दावे, claims
+मौलिक, fundamental
+कदाचित, probably
+मुआमले, cases
+विवेक, discretion
+अड़ता, refrain
+सौभाग्य (abs), good luck (abs)
+हर्ष, joy
+सुझा, suggest
+वेशभूषा, attire
+पारखी, connoisseur
+खानसाम, chef
+पिछलग्गू, hanger-on
+गुस्ताखी, insolence
+वेतन, salary
+इनाम-इकराम, tips
+तत्परता, readiness
+विनय, humility
+प्रतीक्षा, wait
+उत्साह, excitement
+डाक, post
+मुसाफिर, traveller
+विचित्र, weird
+अपेक्षा, expectation
+सेवक, servant
+लज्जा, shame
+भद्र, gentle
+बेगार, forced labor
+भोर, dawn
+अपरिचित, unfamiliar
+बदौलत, thanks to
+चकित, astounded
+आतंकित, terrified
+चेष्टा, effort
+अर्धशंका, half doubt
+लिबास, clothing
+निवारण, preventation
+सालाना, annual
+मूरत, face
+अनाथालय, orphanage
+भांप, guess
+समर्थन, support
+हास्यास्पद, rediculous
+कल्पित, supposed
+वैभव, glory
+समीप, near
+शहसवार, horse-rider
+विकल्प, alternative
+अलगाव, isolation
+अनिद्रा, insomnia
+अवसाद, depression
+संरचना, structure
+इकाई, unit
+अव्यवस्था, order
+पद्धति, methodology
+नियम, rules
+मनवाना, convince
+उन्नति, development
+पुनर्जीवन, resurection
+परिणाम, result
+प्रमाण, evidence
+सुव्यवस्था, good administration
+निरपेक्ष, absolute
+वीर, Brave
+कायर, coward
+चक्षु, eye
+अक्षु,tears
+प्रस्तुत, presented
+उपस्थित, available
+उत्थान, development
+पतन, fall
+कटु, bitter
+कृतज्ञ, grateful
+अमानत, treasure
+क्रय, purchase
+विक्रय, sales
+कपटी, insidious
+अनुचित, disrespectful
+शोक, mourn
+कोमल, soft
+बहुआयामी, multidimensional
+विलक्षण, remarkable
+अस्तगमन, decline
+समावेश, inclusion
+सहस्राब्दियों, millenia
+सूत्र, Formula, महात्‍मा गांधी ने नारा दिया था करो या मरो, उस समय का सूत्र था, करेंगे या मरेंगे।
+सभ्यता, Civilization, सिन्धु घाटी सभ्यता जिसका आरंभ काल लगभग ३३०० ईसापूर्व से माना जाता है ।
+सहिष्णुता, Tolerance, अकबर की धार्मिक सहिष्णुता की नीति ने शाही प्रशासन में सभी के लिये नौकरियों और रोजगार के अवसर खोल दिये थे ।
+सार्वभौमिक, Universal, लोगों के पास स्वच्छ, सस्ती, स्थायी और समान ऊर्जा आपूर्ति के लिए सार्वभौमिक पहुंच होनी चाहिए।
+व्यापर, Business, इसी समय दक्षिण-पूर्वी तट से पुर्तगाल का समुद्री व्यापार शुरु हो गया था ।
+वास्तुकला, Architecture, ताज महल मुगल वास्तुकला का उत्कृष्ट नमूना है।
+विधा, Genre, आत्मकथा अभिव्यक्ति की बहुत मुश्किल विधा है।
+सिद्धांत, Theory, पिछली सदी के महान वैज्ञानिक एलबर्ट आइंस्‍टाइन ने ‘गुरूत्‍वाकर्षी तरंगों’ का सिद्धांत प्रतिपादित किया था।
+आस्था, Faith, गुरु रविदास की सौहार्द और भाईचारे में प्रगाढ़ आस्था थी।
+निर्धारण, Determination, इस दस्तावेज़ के लिए मुख्य फ़ाइल का निर्धारण नहीं कर सका
+परस्पर, Mutual, लंदन की मेरी यात्रा से दोनों देशों के परस्पर सहयोग को नई गति मिलेगी।
+सहयोग, Cooperation, जवाहर लाल नेहरू ने 1920-1922 में असहयोग आंदोलन में सक्रिय हिस्सा लिया और इस दौरान पहली बार गिरफ्तार किए गए।
+धैर्य, Endurance, और हम अवश्य ही कुछ भय से और कुछ भूख से और कुछ जान माल और पैदावार की कमी से तुम्हारी परीक्षा लेंगे और धैर्य से काम लेनेवालों को शुभ सूचना दे दो
+सनातन, Eternal, हिन्दू अपने धर्म को सनातन धर्म या वैदिक धर्म कहना बेहतर समझते हैं 
+पद्धति, Method, और फिर कोरियाई आयु पद्धति के मुताबिक 12 साल जोड़े जाते रहने से
+दिग्गज, Legend, स्वामीनाथन, शरद जोशी और अनिल अग्रवाल जैसे केवल दिग्गज लगों ने नहीं, बल्कि सामान्य लगों ने भी भाग लिया
+प्रख्यात, Renowed, मैं यह कामना करता हूं कि प्राकृतिक सौंदर्य एवं वीरता के लिए प्रख्यात यह राज्य आने वाले वर्षों में और भी अधिक समृद्धि प्राप्त करे।
+तीर्थ यात्रा, Pilgrimage, 
+मार्गदर्शन, Guidance, और तुम कल उनका मार्गदर्शन करते हैं
+चेतना, Conciousness, स्वतन्त्र चेतना - उत्तर भारत का एक नामी समाचार पत्र
+मानवीय, Humane, विविध रचनाओं के माध्यम से मानवीय करूणा और भारतीय मनीषा के अनेकानेक गौरवपूर्ण पक्षों का उद्घाटन।
+आत्मसात, Assimilate, ज्ञान के प्रति अत्यधिक उत्कंठा और उसे आत्मसात करने की क्षमता उनके चरित्र की अनोखी विशेषता थी
+आख्यान, Narrative, पौराणिक आख्यान जिन पर लोग आस्था रखते हैं।
+संस्करण, Edition, यह पुस्तक का पहला संस्करण है
+प्राण, Life
+संकलन, Compilation
+प्रताप, Splendor
+साधन, Resource
+सम्पन्नता, Affluence
+कालखंड, Time period
+जगत, Universe
+मोक्ष, Salvation
+अध्यातिक, Supernatural
+विशेष, Special
+प्रयोग, Practice
+वर्षगा, Anniversary
+पड़ाव, Halt
+संघर्ष, Conflict
+अगुवाई, Lead
+आदर्श, Ideal
+उत्पीड़ि, Oppression
+लामबंध, Mobilization
+प्रासंगिकता, Relevance
+नेतृत्व, Leadership
+स्मृति, Commemoration
+संग्रालय, Museum
+वतन, Homeland
+प्रतीक, Symbol
+प्रमाण पत्र, Certificate
+व्यसन, Addiction
+प्ररूप, Formats
+प्रतिद्वन्द्वी, Competitor
+नीव, Foundational
+अभियान, Campaign
+बुनियादी, Basic
+आवास, Accomodation
+नारी, Women
+अनुयायी, Follower
+आराधना, Worship
+सम्पदा, Estates
+उपाधि, Degree
+वंशज, Descendants
+ताजपोशी, Coronation
+सशक्त, Strong
+सूबे, Province
+निर्वाचित, Elected
+विद्वान्, Scholar
+वक़ालत, Advocacy
+अधिवेशन, Session
+अध्यक्ष, President
+इस्तीफा, Resignation
+मनोनीत, Nominated
+दर्शन, Philosophy
+निधन, Death
+सक्रिय, Active
+राज्यपाल, Governer
+कार्यवाहक, Care Taker
+कार्यवाहक, Acting
+सर्वोच्च, Chief
+रियासत, Region/Principality
+दास्तान, Story
+कस्बा, Town
+मुवक्किल, Client
+तल्लीनता, Engrossment
+जिज्ञासा, Curiosity
+ज़िला, District
+विधुर, Male Widow
+विधवा, Female Widow
+चरित्र, Character
+अद्वितीय, Incomparable
+मशक्कत, Effort
+छुआछूत, Untouchability
+सम्मेलन, Convention
+सचिव, Secretary
+सादगी, Simplicity
+ख्याति, Reputation
+आलोचना, Criticism
+संग्राम, Struggle
+अग्रणी, Cutting Edge
+निरपेक्ष, Absolute certainty
+परम, Utmost
+रिहाई, Release
+भय, Fear
+पश्चात्, Afterwards
+संगठन, Collective
+संगठन, Organization
+तेजस्वी, Majestic
+समृद्ध, Prosperous
+आध्यात्मिक, Spiritual
+मुरीद, Fandom
+पुरखा, Elder
+शिल्प, Craft
+गाथा, Story/Ballade
+आह्वान, Call
+पत्र, Letter
+अप्रवासी, Immigrant
+जज्बा, Passion
+संचार, Communication
+संस्था, Institution
+आधार, Base
+सोदाहरण, Illustrated
+शरणार्थी, Refugee
+प्रवासी, Diaspora
+वजूद, Existence
+पनाह, Refuge
+विपत्ति, Hardship
+त्रासदी, Tragedy
+प्रेरक, Inspiring
+अध्याय, Chapter
+परिपक्व, Adult
+उदारता, Kindness
+समायोजन, Adjustment
+लज्जाजनक, Dishonorable
+मजहबी, Religious
+महत्वकांक्षी, Ambitious
+परित्याग, Abandonment
+विवेकी, Prudent
+पहल, Initiative
+राजनीतिज्ञता, Statesmanship
+अनुरोध, Requested
+इजहार, To Express
+रवैया, Attitude
+किल्लत, Shortage
+किफ़ायत, Economise
+किफ़ायत, Affordability
+आमदनी, Earnings
+सियासत, Politics
+इजाफा, Increase
+उद्योग, Industry
+मुहैया, To Provide
+व्यापक, Comprehensive
+पेशेवर, Professional
+वेतन, Wage
+कुशल, Welfare
+प्रस्थान, Departure
+आगमन, Arrival
+समग्र, Aggregate
+प्रतिस्पर्धा, Competition
+उन्नति, Development
+शास्त्र, Discipline/Study
+प्रणेता, Pioneer
+अवधारणा, Concept
+शासन, Reign
+कूटनीति, Diplomacy
+सुचना, Notice
+संयोग, Join
+संयोग, Chance
+फज़ल, Grace
+वाद्य, Instrument
+ईर्ष्या, Envy
+अनुभूति, Feeling
+अभूतपूर्व, Unprecedented
+विस्तार, Expansion
+नियुक्ति, Appointment
+रोचक, Intresting
+आयात, Import
+निर्यात, Export
+स्त्राव, Secretion
+सुविधाजनक, Convinient
+हैसियत, Status
+गंतव्य, Destination
+गर्भवती, Pregnant
+वर, Groom
+चरम, Climax
+ईजाद, Invention
+अतीत, Past
+खुराक, Dosage
+मिस्र, Egypt
+रहस्यवादी, Mystic
+तरल, Gel/Liquid
+सूझबूझ, Intelligence
+ज्ञानवर्धक, Englightening 
+अभिव्यक्ति, Expression
+सौंदर्य, Beauty
+आभास, Manifestation
+भित्तिचित्र, Cave Painting
+तरंगे, Waves
+धरोहर, Heritage
+सराहना, Admiration
+परिधान, Apparel
+सन्दर्भ, Context
+पर्याप्त, Sufficient
+परिवेश, Environment
+उपजी, Stemmed
+सरोबोर, Attracted
+तब्दील, Transformed
+उत्पादन, Production
+कद, Height
+उपहार, Gift
+समागम, Meeting
+अतृप्त, Unsatisfied
+मूक, Silent
+श्वेत-श्याम, Black and White
+चाव, Passion
+सिद्ध, Prove
+पूरक, Supplement
+दर्पण, Mirror
+सम्प्रेषण, Communication
+अपक्षपादपूर्ण, Unbiased
+मुखड़ा, Face
+विधानसभा, Assembly
+अनाड़ी, Clumsy
+सत्ता, Power
+ठेकेदार, Contractor
+आयोग, Commission
+धनार्जन, Income
+समर्थक, Supporter
+कालिख, Soot
+हथकंडा, Juggle
+पूंजीवाद, Capitalism
+कवायद, Exercise
+भूमंडलीयकरण, Globalization
+उदारीकरण, Liberization
+उपभोक्ता, Consumer
+लोकधर्मिता, Folk Religion
+साम्प्रदायिकता, Communalism
+कट्टरता, Bigotry
+समसामयिक, Contemporary
+कसमसाहट, Boxed In
+व्यवसाइक, Business-Minded
+अभिरुचि, Aptitude
+दैनिक, Daily
+विशिष्ट, Specific
+साक्षी, Witness
+विवरण, description
+वर्धक, Enhancer
+भव्य, Magnificent
+आकलन, Assessment
+बहिष्कृत, Exclude
+अनुशासन, discipline
+शस्त्र, weapon
+साख, credit
+शैली, style
+मंच, Platform
+स्थल, Venue
+फैशनपरस्त, Fashionista
+बिगुल, Bugle
+अटपटा-सा, Awkward
+उम्दा, Fine
+गौरवान्वित, Proud feeling
+प्रबंधन, Management
+सुलभ, Accessible
+सिलसिला, Continuation
+झंझावात, Storm
+उदय, Rise
+प्रचुर, Abundant
+उत्तरोत्तर, Gradually
+युग, Era
+पर्याय, Alternative
+मानदंडों, Norms
+पृष्टभूमि, Background
+विवाद, Conflict
+आपत्ति, Objection
+प्रशासन, Administration
+कार्रवाई, Action
+ज्ञापन, Memorandum
+परिसर, Campus
+समक्ष, Before
+विधिवत, Duly
+नृत्यति, Dancer
+प्रेरित, Inspire
+गौण, Secondary
+कृत्रिम बुद्धिमाका, Artificial Intelligence
+चालक, Driver
+विश्लेषण, Analysis
+रुझान, Trend
+सुर्खिया, Headlines
+मददगार, Helpful
+स्वचालित, Self-Drive
+मेजबानी, Hosting
+तजुर्बा, Experience
+प़ेचीदा, Complicated
+आवाजाही, Movement
+खनन, Mining
+बीमा, Insurance
+बागी, Rebel
+पडताल, Investigation
+प्रयोगशाला, Laboratory
+सौंधी, Petrichor (Smell of rain)
+राजधानी, Capital
+गलियोर, passage between buildings
+जोहरी, Jeweller
+उल्लेख, Allusion
+रक्त चाप, Blood pressure
+आहार, Diet
+विकार, Breakdown
+कारक, Factor
+सम्मिलित, Incorporate
+क्षीण, Thin
+उल्लासपूर्ण, Happy
+आघात, Stroke
+चरन, Phase
+पुश्टी, Confirmation
+घटक, Constituent
+स्मारक, Monument
+अवशेष, Vestige
+स्थापत्य कला, Architecture
+पर्यटन, Tourism
+अहाता, Premises
+प्रांगण, Courtyard
+रम्यता, Elegancy
+प्रतिक्रिया, Remark
+उत्थान, Uplift
+संगोष्ठी, Forum
+व्यवसाय, Occupation
+राजदूत, Ambassador
+प्रचार, Propogation
+कर्त्तव्य, Duty
+लाभप्रद, Lucrative
+वस्तुत, Literally
+नवोदित, Young
+अंशदान, Contribution
+विश्व्यापी, World-Wide
+सराहनीय, Commendable
+संकल्प, Resolution
+प्रशस्त, Broad
+समुदाय, Community
+उमड़ने, Up-welling
+संपर्क, Contact
+उभार्, Swell
+प्रेरना, Stimulus
+खासा, Pretty
+मानवाकृति, Anthropomorphism
+साक्षरता, Litracy
+सजीव, Alive
+अनुरूप, According
+ढाला, Minted
+सर्वदा, Forever
+स्थायी, Permenant, ऐ मेरी क़ौम के लोगो यह सांसारिक जीवन तो बस अस्थायी है निश्चय ही स्थायी रूप से ठहरनेका घर तो आख़िरत ही है
+उपभोग, Pleasure, यह उपभोग थोड़ा है उनके लिए वास्तव में तो दुखद यातना है
+यातना, Agony, यहाँ तक कि यातना उसके मुंह खोलने में नाकाम रही है
+आपूर्ति, Supply, लगभग ५० कम्पनियां फोटो वोल्टायिक प्रणालियों के अभिकल्पन समन्वयन व आपूर्ति के कार्यक्रमों से सक्रिय रूप से जुड़ी हुयी हैं।
+प्रणाली, System, मैं अपनी स्मृति प्रणाली के प्रतिभाशाली कोने तक पहुँचा
+प्रतिभाशाली, Brilliant, उनके प्रतिभाशाली अभिनय को आने वाली पीढि़यों तक याद रखा जाएगा।
+उत्कृष्ट, Best, सेना के बैंड हमेशा से ही अनुकरणीय अनुशासन, त्रुटिहीन पहनावे और उत्कृष्ट संगीत के पर्याय रहे हैं
+अनुकरणीय, Exemplary, अटल जी द्वारा अनुकरणीय सेवा और नेतृत्‍व के चलते भारत के विकास पर काफी सकारात्‍मक प्रभाव पड़ा है।
+त्रुटिहीन, Errorless, ज्यादातर सब्सिडी को अब त्रुटिहीन बायोमीट्रिक पहचान की व्यवस्था के जरिए सीधे सही लाभार्थियों के बैंक खातों में डाला जा रहा है।
+गुरुत्व, Gravity, गुरुत्व के प्रचार और प्रकाश की गति के साथ चलने की धारणा से संकल्पित एक लहर।
+संकल्पित, Devise, इस अधिनियम से करार को अपनी रुचि के अनुसार संकल्पित करने की नम्यता मिलती है।
+प्रगाढ, Tight, वियतनाम यात्रा के दौरान मेरा प्रयास होगा कि लोगों के बीच संबंध प्रगाढ़ हों
+पैदावार, Yield, उनकी पैदावार का तरीका नीचे दिया गया है।
+आयु, Age, इस प्रकार हित अहित सुख और दु : ख आयु के ये चार भेद हैं
+हित, Benefit, बाला साहेब ठाकरे द्वारा शिव सेना पार्टी बनायी गयी जो मराठियों के हित की रक्षा करने हेतु बनी थी।
+करुणा, compassion, मैं आपकी करुणा के लिए अत्यंत आभारी हूँ
+उद्घाटन, Inaugurated, दोनों प्रधानमंत्रियों ने बीरगंज स्थित एकीकृत चुंगी का उद्घाटन किया
+उत्कंठा, Yearning, अब एक बार फिर वह चौराहे पर खड़े पश्चिम की तरफ बड़ी उत्कंठा से देख रहे थे
+नफासत, Tenderness
+आभार, Gratitude
+निर्जीव, Dead
+पक्षाघात, Paralysis
+औसत, Average
+साधने, Cultivation
+विकल्प, Option
+स्थूलकाय, Obese
+स्थूलता, Obesity
+ताज्जुब, Surprise
+शरण , Asylum
+तरक्की, Improvement
+मुकद्दर, Fate
+टिपण्णी, Comment
+सोग़, Sadness
+मकाम, Place
+बेबाक, Outspoken
+ढीठ, Insolent
+विशुद्ध, Pure
+विरुद्ध, Opposite
+व्याख्या, Explanation
+सामग्री, Material
+निसंदेह, Without doubt
+ईशनिंदा, Blasphemic
+घृणास्पद, Hateful
+संकीर्णतापूर्ण, Narrow-Minded
+अखंडता, Integrity
+अहंकार, Ego
+विशेषज्ञ, Specialist
+दायरा, Scope
+प्रभावधान, Dominant
+विचलित, Distract
+सौहाद्र, Friendship
+समन्वय, Harmony
+अपवाद, Exception
+अपराध, Crime
+संशोधन, Amendment
+शोधन, Purification
+शोध, Research
+अंकुश, Control
+मुहीम, Campaign
+दंड, Punishment
+वेदान्त, Ultimate Wisdom
+प्रशंसा, Appreciation

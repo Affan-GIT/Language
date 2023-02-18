@@ -49,7 +49,7 @@ body {
   justify-content: space-between;
   width: 100vw;
   height: 25vh;
-  padding: 0 7%;
+  padding: 0 1%;
   background: var(--background2);
   color: var(--wordColor);
 }

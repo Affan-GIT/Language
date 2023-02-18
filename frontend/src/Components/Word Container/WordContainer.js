@@ -132,6 +132,25 @@ export class WordContainer extends react.Component {
           </div>
         </div>
         <div className='controls'>
+        <div className='speedRunField'>
+            <input
+              type='number'
+              value={this.state.index}
+            />
+            <label>Word Count</label>
+          </div>
+        <div className='speedRunField'>
+            <input
+              type='number'
+              onBlur={(e) => {
+                this.setState( {
+                  index:parseInt(e.target.value) - 1
+                }
+                )
+              }}
+            />
+            <label>Checkpoint</label>
+          </div>
           <button
             className='getNextButton'
             onClick={() => {
